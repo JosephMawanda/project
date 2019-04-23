@@ -1,0 +1,6 @@
+{
+  "name": "AddProperty",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./AddProperty.js"
+}

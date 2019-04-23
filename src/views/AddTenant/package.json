@@ -1,0 +1,6 @@
+{
+  "name": "AddTenant",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./AddTenant.js"
+}

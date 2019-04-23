@@ -1,0 +1,6 @@
+{
+  "name": "AddExpense",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./AddExpense.js"
+}
